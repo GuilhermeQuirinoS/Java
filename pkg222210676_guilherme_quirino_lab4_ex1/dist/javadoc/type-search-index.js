@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"pkg222210676_guilherme_quirino_lab4_ex1","l":"Matematica"},{"p":"pkg222210676_guilherme_quirino_lab4_ex1","l":"Pkg222210676_guilherme_quirino_lab4_ex1"}];updateSearchResults();
